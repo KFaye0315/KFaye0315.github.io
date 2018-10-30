@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+	<meta charset="utf-8">
+	<title>Kameron J. Faye</title>
+		<!--link to main stylesheet-->
+	<link rel = "stylesheet" href = "css/main.css">
+	</head>
+	
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="#">Home</a></li>
+	        	<li><a href="#">About</a></li>
+        		<li><a href="#">CV</a></li>
+        		<li><a href="#">Blog</a></li>
+    		</ul>
+		</nav>
+		<div id = "wrapper">
+    		
+        		<h1>Hi there, My name is Kameron.</h1>
+				<p>I am your best nightmare! <a href="#">Read more about my life...</a></p>
+        
+        <p>
+1. What is Git? Git is an open source software that helps handle projects.
+2. Who started Git? Linus Torvalds
+3. What is Hub? A tool that wraps git to give more funtionality.
+4. Describe Repository and its role? Repository is a way of creating and sharing files wth others
+5. Your thoughts about GitHub. It is alright, yet I prefer google docs.
+    		
+		
+		<footer>
+    		<ul>
+        		<li><a href="mailto:KFaye0315@starkstate.net">email</a></li>
+        		<li><a href="https://github.com/KFaye0315">github.com/KFaye0315</a></li>
+			</ul>
+		</footer>
+		</div>
+	</body>
+</html>
